@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @larryfisherman25
 - 👀 I’m interested in ... Data Science and Embedded Systems.
 - 🌱 I’m currently learning ... Python, SQL, CAN Bus and STM32.
-- 💞️ I’m looking to collaborate on ... Everything I can.
+- 💞️ I’m looking to collaborate on ... Everything that I can.
 - 📫 How to reach me ... matheusfgiraldes@gmail.com
 
 <!---
