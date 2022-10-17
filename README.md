@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @larryfisherman25
-- 👀 I’m interested in ... Data Science and Embedded Systems.
+- 👀 I’m interested in ... Data Science and MLOps.
 - 🌱 I’m currently learning ... Python, SQL, Microsoft Azure.
 - 💞️ I’m looking to collaborate on ... Any data science project.
 - 📫 How to reach me ... matheusfgiraldes@gmail.com or https://www.linkedin.com/in/matheusfanaligiraldes/
