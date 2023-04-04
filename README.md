@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @larryfisherman25
-- 👀 I’m interested in ... Data Science and MLOps.
-- 🌱 I’m currently learning ... Python, SQL, Microsoft Azure.
-- 💞️ I’m looking to collaborate on ... Any data science project.
+- 👀 I’m interested in ... Data Engineering and Cloud.
+- 🌱 I’m currently learning ... Python, SQL, Microsoft Azure and AWS.
+- 💞️ I’m looking to collaborate on ... Any data engineering project.
 - 📫 How to reach me ... matheusfgiraldes@gmail.com or https://www.linkedin.com/in/matheusfgiraldes/
 
 <!---
